@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wowcaiya.github.io/</id>
-    <title>Gridea</title>
-    <updated>2019-07-20T12:55:46.534Z</updated>
+    <title>一个在学习前端的弟弟</title>
+    <updated>2019-07-20T12:58:42.646Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wowcaiya.github.io/"/>
     <link rel="self" href="https://wowcaiya.github.io//atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>学而不思则罔思而不学则殆</subtitle>
     <logo>https://wowcaiya.github.io//images/avatar.png</logo>
     <icon>https://wowcaiya.github.io//favicon.ico</icon>
-    <rights>All rights reserved 2019, Gridea</rights>
+    <rights>All rights reserved 2019, 一个在学习前端的弟弟</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://wowcaiya.github.io//post/hello-gridea</id>
